@@ -62,3 +62,4 @@ local.properties
 .classpath
 .factorypath
 .target
+/target
