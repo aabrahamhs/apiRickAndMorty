@@ -139,5 +139,6 @@
 	Se escogio bootstrap y jquery como framework para back apegandose a lo requerido y debido  que estos bibliotecas facilitan el desarrollo del frontend.
 	Tambien se se escogío jquery datatables para facilitar el desarrollo del frontend.
 	Como mejora se pueden agregar logs al back y un framework javascript al front como angular
+	Se puede agregar swagger
 	
 	
