@@ -132,8 +132,12 @@
 
 
 <p align="center">
-		  <img src="src/main/webapp/img/imagen.png" alt="Imagen" width="250">
+		  <img src="src/main/webapp/img/imagen.png" alt="Imagen" width="400">
 		</p>   
       
-
-
+12- Se escogio java spring como framework para back ya que es mas facil la creación de microservicios con este framework
+	Se escogio bootstrap y jquery como framework para back apegandose a lo requerido y debido  que estos bibliotecas facilitan el desarrollo del frontend.
+	Tambien se se escogío jquery datatables para facilitar el desarrollo del frontend.
+	Como mejora se pueden agregar logs al back y un framework javascript al front como angular
+	
+	
