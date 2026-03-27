@@ -127,9 +127,13 @@
 
     Con esto la aplicación ya debe funcionar invocando en el navegador http://localhost:7878/index.html
     
-    
-      <p align="center">
+
+---   
+
+
+<p align="center">
 		  <img src="src/main/webapp/img/imagen.png" alt="Imagen" width="250">
-		</p>
+		</p>   
+      
 
 
